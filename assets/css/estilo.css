@@ -1,0 +1,127 @@
+  main{
+  width: 1280px;
+  }
+body{
+  font-family: 'Raleway', sans-serif;
+}
+header{
+  background-color: black;
+    height: 73px;
+    text-align: center;
+    overflow: hidden;
+}
+header h1{
+  color: white;
+    font-size: 50px;
+    font-weight: 500;
+    margin: 11.5px;
+}
+
+#imagen{
+  height: 727px;
+    background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.maestro{
+  color: #FFFFFF;
+    height: 348px;
+    overflow: hidden;
+    background-color: black;
+}
+
+.cuadro1{
+  background-color: black;
+  width: 475px;
+    height: 197px;
+    color: white;
+    margin: 76px 655px 75px 150px;
+    font-weight: lighter;
+    float: left;
+}
+
+.cuadro2{
+  width: 399px;
+    height: 237px;
+    margin: 45px 150px 56px 731px;
+    background-image: url(../img/iguana-1.jpg);
+    background-size: cover;
+}
+
+.dimensiones{
+  float: left;
+    width: 33%;
+}
+
+.dimensiones p{
+  color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 16px;
+}
+
+.cuadro3{
+  width: 316px;
+  height: 202px;
+  margin-top: 73px;
+  margin-left: 150px;
+  background-image: url(../img/iguana-2.jpg);
+  background-size: cover;
+  float: left;
+  background-color:black;
+}
+
+.cuadro4{
+  width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 16px;
+    background-image: url(../img/iguana-3.jpg);
+    background-size: cover;
+    float: left;
+    background-color:black;
+}
+
+.cuadro5{
+  width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 16px;
+    background-image: url(../img/iguana-4.jpg);
+    background-size: cover;
+    float: left;
+    background-color:black;;
+
+}
+
+article{
+  margin: 75px auto 24px auto;
+  text-align: center;
+  width: 75%;
+  
+}
+article h2{
+  color: #FFFFFF;
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+
+.color_fondo{
+  background-color: #1E1A13;
+}
+
+footer{
+  color: #FFFFFF;
+  text-align: left;
+  font-weight: lighter;
+  height: 102px;
+  font-size: 20px;
+}
+footer p{
+  padding-top: 39px ;
+  padding-left: 299px;
+  padding-right: 299px;
+  padding-bottom: 39px;
+}
